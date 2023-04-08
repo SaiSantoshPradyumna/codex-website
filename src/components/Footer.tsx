@@ -1,6 +1,6 @@
 import logo from "../assests/codexlogo.png";
 import { useRouter } from "next/router";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import git from "../assests/github1.png";
 import disc from "../assests/discordlogo.png";
 import insta from "../assests/instagram.png";

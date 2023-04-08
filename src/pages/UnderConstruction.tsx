@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import styles from "../styles/underconstruction.module.css";
 import underconstruction from "../assests/underconstruction.png";
 import Link from "next/link";

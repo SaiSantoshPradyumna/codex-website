@@ -8,7 +8,7 @@ import img3 from "../assests/memories/mem2.png";
 import img4 from "../assests/memories/mem3.png";
 import img5 from "../assests/memories/mem4.png";
 import img6 from "../assests/memories/mem5.png";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import dynamic from "next/dynamic";
 const Memories = () => {
     const handleDragStart = (e: any) => e.preventDefault();

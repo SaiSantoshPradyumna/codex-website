@@ -5,7 +5,7 @@ import cone from "../assests/Cones.jpg";
 import wand from "../assests/Wands.jpg";
 import rec from "../assests/Rectangle 33.png";
 import Resource from "./Resource";
-import Image from "next/image";
+import Image from "next/legacy/image";
 export default function Resources() {
     const data = [
         {

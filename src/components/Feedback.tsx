@@ -3,7 +3,7 @@ import send from "../assests/send_buttonfeed.png";
 import styles from "../styles/Feedback.module.css";
 import mail from "../assests/gmail.png";
 import tele from "../assests/telephone.png";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import saly38 from "../assests/Saly_38_1.png";
 import React, { useEffect, useState } from "react";
 import axios from "axios";

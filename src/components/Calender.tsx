@@ -5,7 +5,7 @@ import bg from "../assests/sec2bg.png";
 import icon from "../assests/calendarimg.png";
 import subbar from "../assests/subeventbar.png";
 import Calendar from "react-calendar";
-import Image from "next/image";
+import Image from "next/legacy/image";
 export default function EventDate() {
     const [value, onChange] = useState(new Date());
     const data = [

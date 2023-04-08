@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "next/legacy/image";
 import image from "../assests/members/santosh_img.png";
 import linkdin from "../assests/members/linkdinlogo.png";
 import insta from "../assests/members/instalogo.png";

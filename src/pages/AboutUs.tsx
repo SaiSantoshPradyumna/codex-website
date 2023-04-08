@@ -2,7 +2,7 @@ import React from "react";
 import { NextPage } from "next";
 import NavBar from "@/components/NavBar";
 import styles from "../styles/AboutUs.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import imagei from "../assests/instagram.png";
 import imaged from "../assests/discordlogo.png";
 import image1 from "../assests/image 4.png";

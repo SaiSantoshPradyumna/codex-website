@@ -1,5 +1,5 @@
 import memory from "../assests/memories/mem_event1.png";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
 import styles from '../styles/event.module.css'

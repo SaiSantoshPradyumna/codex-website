@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "../styles/event.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import imag1 from "../assests/events/event_img1.jpg";
 const Event_curosel = () => {
     const [detailedeventcontainer, setDetailedeventcontainer] = useState(products[0]);

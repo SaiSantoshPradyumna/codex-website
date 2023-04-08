@@ -1,6 +1,6 @@
 import styles from "../styles/Glimpse.module.css";
 import saly from "../assests/Saly-10_1.png";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Calender from "@/components/Calender";
 import { MouseEventHandler, MutableRefObject, useRef } from "react";
 import { Calendar } from "react-calendar";

@@ -1,5 +1,5 @@
 import styles from "../styles/resource.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 const Resource = (props: any) => {
     return (
         <a href={"/UnderConstruction"}>

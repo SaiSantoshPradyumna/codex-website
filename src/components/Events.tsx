@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "../styles/Events.module.css";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import image1 from "../assests/posters/c-programming.jpg";
 
 const Events = (props: any) => {

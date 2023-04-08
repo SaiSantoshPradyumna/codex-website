@@ -3,7 +3,7 @@ import image1 from "../assests/Untitled-4 7.png";
 import image2 from "../assests/Untitled-4 8.png";
 import styles from "../styles/faqcomp.module.css";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 const FAQcomp = (props: any) => {
     const [state, setState] = useState("none");
     const drop = () => {
